@@ -1,0 +1,13 @@
+name: NNTP
+version: '${project.version}'
+main: pa.greenvox.ru.nntp.NNTP
+api-version: 1.19
+authors: [ ProstoyArtemka, Fergust ]
+description: Newbies Need To Play (WOW!)
+commands:
+  vote:
+    description: Vote for somebody
+    usage: /vote <player>
+  vote_reload:
+    description: Reloads config
+    usage: /vote_reload

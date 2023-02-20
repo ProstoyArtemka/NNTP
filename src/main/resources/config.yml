@@ -1,0 +1,30 @@
+settings:
+  # In Minutes
+  time_for_vote: 180
+
+  candidates:
+    architecture:
+      voiced_people: [ ]
+
+    president:
+      voiced_people: [ ]
+
+    interior:
+      voiced_people: [ ]
+
+    culture:
+      vocied_people: [ ]
+
+    all: []
+
+messages:
+  not_enough_args: "&4Недостаточно аргументов!"
+  this_user_isnt_exists: "&4Этого пользователя не существует!"
+  you_are_voted_already: "&4Вы уже проголосовали!"
+  your_voice_accepted: "&2Ваш голос принят!"
+  you_not_played_three_hours: "&4Вы не наиграли 3 часа за последний месяц, чтобы проголосовать!"
+
+### INNER PLUGIN THINGS ###
+month: 12
+players_played:
+  ProstoyArtemka: 1
